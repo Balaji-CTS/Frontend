@@ -2,3 +2,25 @@ h1
 {
     color: green;
 }
+
+.red-heading /*This is a class selector*/
+{
+    color: red;
+}
+
+h2
+{
+    color: blue;
+}
+
+
+/*Id selector
+can be only Applied to only one 
+id it is unique two elements should not have same id*/
+
+#main
+{
+    color: magenta;
+}
+
+
