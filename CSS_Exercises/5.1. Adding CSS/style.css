@@ -23,4 +23,9 @@ id it is unique two elements should not have same id*/
     color: magenta;
 }
 
+/*Attribute Selector*/
+p[draggable="false"] 
+{
+    color: brown;
+}
 
